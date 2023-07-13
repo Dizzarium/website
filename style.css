@@ -11,7 +11,7 @@ body {
 }
 
 .first_slide {
-  background-image: url(/imagies/7.jpg);
+  background-image: url(./imagies/7.jpg);
   height: 200vh;
   background-repeat: no-repeat;
   background-size: cover;
